@@ -44,7 +44,7 @@ TruecallerCopy is an Android application developed using **Kotlin** and **MVVM a
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/nehagarg702/TrueCallerCopy
+   git clone https://github.com/nehagarg702/TrueCallerCopy.git
 
 2. Open **Android Studio**.
 3. Click on **File > Open** and select the project folder.
